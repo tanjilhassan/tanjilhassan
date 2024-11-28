@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beginner in the programming world.
 ----------------------------------
 
-I'm a newbie in this exciting world of programming. There are languages I would enjoy this journey of learning and upgrading my skills.
+I'm a newbie in this exciting world of programming. There are languages I would love to learn and enjoy this journey of learning and upgrading my skills.
 
 *   🌍  I'm based in Dhaka,Bangladesh
 *   ✉️  You can contact me at [tanjilhassanratul@gmail.com](mailto:tanjilhassanratul@gmail.com)
