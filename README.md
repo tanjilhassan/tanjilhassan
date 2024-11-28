@@ -1,19 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on personal project.<br>🤝 I’m looking for help with learning as a beginner.<br>🌱 I’m currently learning C and other basics.<br>💬 Ask me about my projects, how can i learn or maybe drop some tips & tricks :)<br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanjil Hassan
+=====================================================================================================================================
 
+Beginner in the programming world.
+----------------------------------
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sci.fi.guy_/profilecard/?igsh=MWVkc3owcjE4dHdqOQ==) 
+I'm a newbie in this exciting world of programming. There are languages I would enjoy this journey of learning and upgrading my skills.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanjilhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanjilhassan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=tanjilhassan&icon=0&color=0)](https://visitcount.itsvg.in)
+*   🌍  I'm based in Dhaka,Bangladesh
+*   ✉️  You can contact me at [tanjilhassanratul@gmail.com](mailto:tanjilhassanratul@gmail.com)
+*   🧠  I'm learning C
+*   🤝  I'm open to collaborating on my personal projects for now :)
+*   ⚡  This journey of learning never tires me :) .Secretly learning 3D.### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+                    </p>
+                    
