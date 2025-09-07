@@ -8,7 +8,7 @@ I'm a newbie in this exciting world of programming. There are languages I would 
 
 * 🌍  I'm based in Dhaka,Bangladesh
 * ✉️  You can contact me at [tanjilhassanratul@gmail.com](mailto:tanjilhassanratul@gmail.com)
-* 🧠  I'm learning C
+* 🧠  I'm learning C,JAVA,PYTHON
 * 🤝  I'm open to collaborating on my personal projects for now :)
 * ⚡  This journey of learning never tires me :) .Secretly learning 3D.
 
